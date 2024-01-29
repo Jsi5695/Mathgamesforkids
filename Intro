@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Games for Kids</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #00303f; /* Blue teal electric */
+            color: #ffffff; /* White text */
+        }
+        header {
+            background-color: #006064; /* Darker shade of blue teal electric */
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #006064; /* Darker shade of blue teal electric */
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Math Games for Kids</h1>
+    </header>
+    <div class="container">
+        <h2>Welcome!</h2>
+        <p>Get ready for some fun and educational math games designed specifically for kids! Whether you're looking to practice addition, subtraction, multiplication, or division, we've got you covered.</p>
+        <h2>Games</h2>
+        <p>Check out the following games:</p>
+        <ul>
+            <li><a href="#">Addition Blast</a></li>
+            <li><a href="#">Subtraction Dash</a></li>
+            <li><a href="#">Multiplication Mania</a></li>
+            <li><a href="#">Division Dive</a></li>
+        </ul>
+    </div>
+    <footer>
+        <p>&copy; 2024 Math Games for Kids</p>
+    </footer>
+</body>
+</html>
